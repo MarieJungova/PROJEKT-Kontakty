@@ -49,6 +49,10 @@ h1{
 		text-align: left;
 		margin-left: 10px;
 	}
+
+	.holka img{
+		max-height: 60%;
+	}
 }
 
 @media screen and (min-width: 960px){
